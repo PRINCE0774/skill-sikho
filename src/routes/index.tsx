@@ -56,7 +56,7 @@ const whyUs = [
 ];
 
 const ENROLL_ID = "enroll";
-const ENROLL_URL = "https://rzp.io/rzp/Ijldrn3";
+const ENROLL_URL = "https://rzp.io/rzp/skills-sikho-course";
 
 function Reveal({ children, delay = 0 }: { children: React.ReactNode; delay?: number }) {
   const ref = useRef<HTMLDivElement>(null);
